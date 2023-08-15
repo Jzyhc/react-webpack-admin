@@ -1,0 +1,10 @@
+#root {
+  h2 {
+    font-size: 20px;
+    color: aqua;
+  }
+  .bigImg {
+    width: 232px;
+    height: 154px;
+  }
+}
